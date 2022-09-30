@@ -2,7 +2,7 @@
 Project com Material Design
 
 ## Instalação
-- Baixe projeto em sua máquina
+- Baixe proje to em sua máquina
 - Acesse o diretório do projeto local
 - Rode os comandos:
 ```
